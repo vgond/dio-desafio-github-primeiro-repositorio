@@ -19,7 +19,7 @@ Para registrar alteraçõs realizadas no repositório local, descrevendo-as:
 
 `git commit -m "sua mensagem de commit"`
 
-Para enviar as alterações locais para controle de versão na nuvem:
+Para enviar as alterações locais para o controle de versão na nuvem:
 
 `git push origin main`
 
